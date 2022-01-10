@@ -1,4 +1,4 @@
-### Hello! I'm Brian, 22. 👋
+### Hello! I'm Brian, brazilian, 22y. 👋
 
 ### I'm  a Jr. Fullstack developer, with an higher education in Data Science.
 <br/>
