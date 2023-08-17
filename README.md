@@ -7,7 +7,7 @@
 
 <br/>
 
-![Brian GitHub stats](https://github-readme-stats.vercel.app/api?username=brianzzs&hide=contribs,prs&show_icons=true&theme=radical)
+![Brian GitHub stats](https://github-readme-stats.vercel.app/api?username=brianzzs&show_icons=true&theme=radical)
 
 
 Technologys that I like and use.
