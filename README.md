@@ -1,28 +1,42 @@
-### Hello! I'm Brian, brazilian, 27y. 👋
+# Hi, I'm Brian Zanoni
 
-### I'm  a .NET/Python Fullstack Software Engineer, with an higher education in Data Science.
-<br/>
+**Senior Software & AI Engineer · Forward Deployed (FDE) · Product & Full-Stack Engineer**
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianzan/)
+São Paulo, Brazil *(US Eastern Timezone Aligned · Open to Global Remote & Relocation)*
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianzan/)
+[![Five Innings](https://img.shields.io/badge/Five_Innings-111827?style=flat-square&logo=vercel&logoColor=white)](https://fiveinnings.com/)
+[![Carteirinha](https://img.shields.io/badge/Carteirinha-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://carteirinha.club/)
+[![Email](https://img.shields.io/badge/Email-374151?style=flat-square&logo=maildotru&logoColor=white)](mailto:brianzanoni@outlook.com)
 
-Technologys that I like and use.
+---
 
-<div style = "display: inline_block">
-<br/>
+### What I Build
 
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+I work at the intersection of **AI Engineering**, **Forward Deployed Delivery**, and **0-to-1 Product Engineering**—combining startup shipping speed with the systems rigor required inside regulated Fortune 10 enterprises (6+ years across US healthcare, fintech/banking, and B2B SaaS; B.S. in Data Science & Analytical Intelligence).
 
+- **AI & Agentic Systems:** Pioneering **Claude Code** / Anthropic agentic engineering standards, custom harnesses, reusable skills, hooks, MCP integrations, and evaluation guardrails for enterprise squads (currently embedded remotely with **CVS Health**).
+- **Forward-Deployed & Distributed Backend:** Shipping production-critical distributed systems, legacy-to-modern migrations, application security hardening, and regulated **BaaS / Central Bank PIX** payment rails across Python, C#/.NET, PostgreSQL, and AWS.
+- **Full-Stack & 0-to-1 Products:** Owning features end-to-end—from relational data modeling and async APIs to polished, strictly typed **React + TypeScript** interfaces with TanStack Query and automated CI/CD.
 
+---
 
+### Featured Work
 
+| Project | What It Is | Stack |
+| :--- | :--- | :--- |
+| [**bzhstack**](https://github.com/brianzzs/bzhstack) | My living AI engineering stack—reusable agent skills, hooks, `AGENTS.md`, and coding-agent workflows. | Python, Claude Code, Agents, MCP |
+| [**Five Innings**](https://fiveinnings.com/) | Real-time MLB analytics & predictive modeling SaaS featuring weather-adjusted park factors (30-stadium wind/orientation physics + Open-Meteo + two-tier Redis caching). | Python, AsyncIO, Uvicorn/ASGI, Redis, React 18, TypeScript, TanStack Query, Docker |
+| [**Carteirinha**](https://carteirinha.club/) | Independent full-stack web product built and shipped end-to-end. | TypeScript, React, Full-Stack |
+| [**Quorum Full-Stack App**](https://github.com/brianzzs/Quorum-coding-challenge-ui) ([API](https://github.com/brianzzs/Quorum-coding-challenge-API)) | Public full-stack reference implementation pairing a clean React/Mantine frontend with an analytical Python/DuckDB backend. | TypeScript, React, Vite, Mantine, Python, Flask, DuckDB |
 
-</div>
+---
 
+### Core Stack
+
+| Area | Technologies |
+| :--- | :--- |
+| **AI & Agents** | Claude Code, Anthropic & OpenAI APIs / Agents SDK, Cursor, MCP, RAG, Prompt Engineering, Evals, Custom Harnesses, LangChain, Microsoft AI Foundry, PyTorch |
+| **Frontend & Product** | TypeScript (Strict), React 18, Next.js, TanStack Query, Vite, Tailwind CSS, Mantine, Chakra UI, Material UI, HTML5, CSS3, Vitest, Jest |
+| **Backend & Distributed** | Python (FastAPI, Flask, AsyncIO, Pydantic), C#, .NET 8/9, ASP.NET Core, Node.js, REST / OpenAPI, Microservices, Event-Driven Systems, OAuth 2.0 |
+| **Data, Cloud & Infra** | PostgreSQL, SQL Server, Redis, MongoDB, DynamoDB, DuckDB, AWS (Lambda, SQS, S3, EC2, CodePipeline), Docker, Docker Compose, GitHub Actions, GitLab Runners, Linux |
