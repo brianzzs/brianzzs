@@ -1,6 +1,6 @@
 # Hi, I'm Brian Zanoni
 
-**Senior Software & AI Engineer · Forward Deployed (FDE) · Product & Full-Stack Engineer**
+**Senior Software & AI Engineer · Forward Deployed (FDE) · Product & Full-Stack Engineer** (prev. .NET Specialist)
 
 São Paulo, Brazil *(US Eastern Timezone Aligned · Open to Global Remote & Relocation)*
 
@@ -36,6 +36,6 @@ I work at the intersection of **AI Engineering**, **Forward Deployed Delivery**,
 | Area | Technologies |
 | :--- | :--- |
 | **AI & Agents** | Claude Code, Anthropic & OpenAI APIs / Agents SDK, Cursor, MCP, RAG, Prompt Engineering, Evals, Custom Harnesses, LangChain, Microsoft AI Foundry, PyTorch |
-| **Frontend & Product** | TypeScript (Strict), React 18, Next.js, TanStack Query, Vite, Tailwind CSS, Mantine, Chakra UI, Material UI, HTML5, CSS3, Vitest, Jest |
-| **Backend & Distributed** | Python (FastAPI, Flask, AsyncIO, Pydantic), C#, .NET 8/9, ASP.NET Core, Node.js, REST / OpenAPI, Microservices, Event-Driven Systems, OAuth 2.0 |
-| **Data, Cloud & Infra** | PostgreSQL, SQL Server, Redis, MongoDB, DynamoDB, DuckDB, AWS (Lambda, SQS, S3, EC2, CodePipeline), Docker, Docker Compose, GitHub Actions, GitLab Runners, Linux |
+| **Frontend & Product** | TypeScript, React, TanStack Query, anything. |
+| **Backend & Distributed** | Python (FastAPI, Flask, AsyncIO, Pydantic), C#, .NET 10, Node, anything idc we ball. 
+| **Data, Cloud & Infra** | PostgreSQL, SQL Server, Redis, MongoDB, DynamoDB, DuckDB, AWS (Lambda, SQS, S3, EC2, CodePipeline), Docker, GitHub Actions, GitLab Runners, Linux, anything we ball. 
