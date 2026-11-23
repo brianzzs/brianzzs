@@ -28,7 +28,6 @@ I work at the intersection of **AI Engineering**, **Forward Deployed Delivery**,
 | [**bzhstack**](https://github.com/brianzzs/bzhstack) | My living AI engineering stack—reusable agent skills, hooks, `AGENTS.md`, and coding-agent workflows. | Python, Claude Code, Agents, MCP |
 | [**Five Innings**](https://fiveinnings.com/) | Real-time MLB analytics & predictive modeling SaaS featuring weather-adjusted park factors (30-stadium wind/orientation physics + Open-Meteo + two-tier Redis caching). | Python, AsyncIO, Uvicorn/ASGI, Redis, React 18, TypeScript, TanStack Query, Docker |
 | [**Carteirinha**](https://carteirinha.club/) | Independent full-stack web product built and shipped end-to-end. | TypeScript, React, Full-Stack |
-| [**Quorum Full-Stack App**](https://github.com/brianzzs/Quorum-coding-challenge-ui) ([API](https://github.com/brianzzs/Quorum-coding-challenge-API)) | Public full-stack reference implementation pairing a clean React/Mantine frontend with an analytical Python/DuckDB backend. | TypeScript, React, Vite, Mantine, Python, Flask, DuckDB |
 
 ---
 
